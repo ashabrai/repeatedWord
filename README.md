@@ -1,4 +1,5 @@
-# Repeated Word 
+# Repeated Word [![Build Status](https://travis-ci.com/ashabrai/repeatedWord.svg?branch=master)](https://travis-ci.com/ashabrai/repeatedWord)
+
 Find the common word in a string.
 ## Challenge
 Create a function that takes in a long string, and find the common value or word within the string. Using 
